@@ -365,3 +365,6 @@ ML-For-Beginners.Rproj
 
 # csv files that exceed github's file size limit
 *.csv
+6-NLP/data/Hotel_Reviews_Filtered.csv
+6-NLP/data/Hotel_Reviews.csv
+6-NLP/data/Hotel_Reviews_NLP.csv

@@ -362,3 +362,6 @@ MigrationBackup/
 .Rhistory
 ML-For-Beginners.Rproj
 
+
+# csv files that exceed github's file size limit
+*.csv
